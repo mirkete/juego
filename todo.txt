@@ -1,0 +1,3 @@
+[X] Crear juego de dados
+[ ] Crear grid con las celdas
+[ ] Crear funcion para mover al personaje
